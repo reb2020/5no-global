@@ -1,6 +1,6 @@
 {
   "name": "5no-global",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Global variables manager",
   "main": "compiled/index.js",
   "scripts": {
@@ -26,8 +26,7 @@
     "type": "git",
     "url": "git+https://github.com/reb2020/5no-global.git"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
